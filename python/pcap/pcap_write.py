@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-from gnuradio import gr;
+from gnuradio import gr
 from scapy.utils import PcapWriter
 from scapy.layers import l2
 import pmt

@@ -1,16 +1,17 @@
-title: gr-pcap
-brief: PCAP recording and playback
-tags:
-  - pcap
-  - packet
+title: The PCAP OOT Module
+brief: Short description of gr-pcap
+tags: # Tags are arbitrary, but look at CGRAN what other authors are using
+  - sdr
 author:
-  - Tim O'Shea <tim.oshea753@gmail.com>
+  - Author Name <authors@email.address>
 copyright_owner:
-  - Tim O'Shea <tim.oshea753@gmail.com>
-dependencies:
-  - gnuradio (>= 3.7.0)
-  - python-scapy
-repo: https://github.com/osh/gr-pcap.git
-stable_release: HEAD
-icon: http://a5.mzstatic.com/us/r30/Purple/v4/ce/de/22/cede224b-4fed-2af1-e203-ed6b3f381d24/icon175x175.png
+  - Copyright Owner 1
+license:
+gr_supported_version: # Put a comma separated list of supported GR versions here
+#repo: # Put the URL of the repository here, or leave blank for default
+#website: <module_website> # If you have a separate project website, put it here
+#icon: <icon_url> # Put a URL to a square image here that will be used as an icon on CGRAN
 ---
+A longer, multi-line description of gr-pcap.
+You may use some *basic* Markdown here.
+If left empty, it will try to find a README file instead.

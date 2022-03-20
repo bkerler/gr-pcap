@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-from gnuradio import gr;
+from gnuradio import gr
 import pmt, time, numpy
 from scapy.utils import PcapReader
 
